@@ -4,6 +4,8 @@ redis-api를 실행하기 전에 선행해주세요 :)
 
 1. docker build
    ```
+   git clone https://github.com/Himedia-CLDS/docker-redis.git
+   cd docker-redis
    docker build -t redis .
    ```
 2. docker run
