@@ -12,7 +12,7 @@ redis-api를 실행하기 전에 선행해주세요 :)
    ```
    docker run -d -p 6379:6379 redis
    ```
-3. redis healthcheck
+3. redis healthcheck <br/>
    CID를 통해서 redis의 healthcheck를 하는 방법입니다.
    ```
    docker ps
